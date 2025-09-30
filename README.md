@@ -1,9 +1,3 @@
-Perfect 🎉 great job pushing it! Now let’s make a **clean, professional README** for your `FruitShopApp` repo that matches what recruiters/teachers expect.
-
-Here’s a polished version you can copy-paste:
-
----
-
 # 🍎 FruitShopApp
 
 A simple **SwiftUI shopping app** for browsing and ordering fresh fruits.
@@ -36,9 +30,7 @@ Built as part of a learning project to practice **SwiftUI layouts, navigation, a
 
 | Home Screen              | Fruit Detail               | Store Detail               |
 | ------------------------ | -------------------------- | -------------------------- |
-| ![Home](Fruitshop/Screenshots/Home.png) | ![Fruit](Fruitshop/Screenshots/Fruit.png) | ![Store](Fruitshop/Screenshots/Store.png) |
-
-*(replace with your actual screenshots if you want — Xcode simulator screenshots work great!)*
+| ![Home](FruitShop/Screenshots/Home.png) | ![Fruit](FruitShop/Screenshots/Fruite.png) | ![Store](FruitShop/Screenshots/Store.png) |
 
 ---
 
