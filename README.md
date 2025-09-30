@@ -36,7 +36,7 @@ Built as part of a learning project to practice **SwiftUI layouts, navigation, a
 
 | Home Screen              | Fruit Detail               | Store Detail               |
 | ------------------------ | -------------------------- | -------------------------- |
-| ![Home](Screenshots/Home.png) | ![Fruit](Screenshots/Fruit.png) | ![Store](Screenshots/Store.png) |
+| ![Home](Fruitshop/Screenshots/Home.png) | ![Fruit](Fruitshop/Screenshots/Fruit.png) | ![Store](Fruitshop/Screenshots/Store.png) |
 
 *(replace with your actual screenshots if you want — Xcode simulator screenshots work great!)*
 
