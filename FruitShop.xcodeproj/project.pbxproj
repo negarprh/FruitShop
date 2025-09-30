@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		84E246E42E8C6F430079E0DC /* FruitShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FruitShop.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		84E246E42E8C6F430079E0DC /* FruitShop.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = FruitShop.app; path = "/Users/negar/Desktop/College/IOS App Development/Assignment/FruitShop/build/Debug-iphoneos/FruitShop.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				84E246E62E8C6F430079E0DC /* FruitShop */,
-				84E246E52E8C6F430079E0DC /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		84E246E52E8C6F430079E0DC /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				84E246E42E8C6F430079E0DC /* FruitShop.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 84E246DB2E8C6F430079E0DC;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 84E246E52E8C6F430079E0DC /* Products */;
+			productRefGroup = 84E246DB2E8C6F430079E0DC;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
